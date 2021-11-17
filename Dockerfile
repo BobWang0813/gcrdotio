@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:0c31be63e2e9b56d47bdcc8814b8007d2901de1d5d2019f916d7b8287fd9d51c
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:2f59d5d6628dbfd1d1d7222560d938afabeeca8a271357893355a688b9031593
