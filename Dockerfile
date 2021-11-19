@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/workflow-controller:v2.12.9-license-compliance
+FROM gcr.io/kubeflow-images-public/pytorch-operator:vmaster-g518f9c76
