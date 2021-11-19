@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/metadata-writer:1.5.1
+FROM gcr.io/ml-pipeline/api-server:1.5.1
