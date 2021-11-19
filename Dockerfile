@@ -1,1 +1,1 @@
-FROM gcr.io/tfx-oss-public/ml_metadata_store_server:0.25.1
+FROM docker pull gcr.io/knative-releases/knative.dev/serving/cmd/webhook:v0.17.4
