@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:1.5.1
+FROM public.ecr.aws/j1r0q0g6/notebooks/tensorboard-controller:v1.3.1-rc.0
