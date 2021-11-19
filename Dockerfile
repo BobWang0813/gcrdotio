@@ -1,1 +1,1 @@
-FROM public.ecr.aws/j1r0q0g6/notebooks/tensorboard-controller:v1.3.1-rc.0
+FROM gcr.io/ml-pipeline/workflow-controller:v2.12.9-license-compliance
