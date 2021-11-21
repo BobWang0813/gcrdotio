@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook:v0.17.1
+FROM  gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
