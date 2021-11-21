@@ -1,1 +1,1 @@
-FROM  gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
+FROM  docker pull gcr.io/knative-releases/knative.dev/serving/cmd/queue:v0.17.4
