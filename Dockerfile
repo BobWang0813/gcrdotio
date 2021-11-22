@@ -1,1 +1,1 @@
-FROM   gcr.io/google-containers/busybox
+FROM   gcr.io/kfserving/sklearnserver:v0.5.1
