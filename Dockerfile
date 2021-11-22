@@ -1,1 +1,1 @@
-FROM   gcr.io/kfserving/storage-initializer:v0.5.1
+FROM   gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
