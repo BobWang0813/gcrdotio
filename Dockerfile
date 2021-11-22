@@ -1,1 +1,1 @@
-FROM   gcr.io/knative-releases/knative.dev/serving/cmd/queue:v0.17.4
+FROM   gcr.io/ml-pipeline/cache-server:1.5.1
