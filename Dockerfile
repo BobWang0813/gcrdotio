@@ -1,1 +1,1 @@
-FROM   gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM   gcr.io/knative-releases/knative.dev/serving/cmd/activator:v0.22.1
