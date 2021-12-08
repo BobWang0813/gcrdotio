@@ -1,1 +1,1 @@
-FROM   gcr.io/knative-releases/knative.dev/serving/cmd/activator:v0.22.1
+FROM   gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler:v0.22.1
