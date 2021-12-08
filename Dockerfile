@@ -1,1 +1,1 @@
-FROM   gcr.io/knative-releases/knative.dev/serving/cmd/controller:v0.22.1
+FROM  gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook:v0.22.1
