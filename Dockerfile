@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:1.7.0
+FROM gcr.io/ml-pipeline/argoexec:v3.1.6-patch-license-compliance
