@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/workflow-controller:v3.1.6-patch-license-compliance
+FROM k8s.gcr.io/nfd/node-feature-discovery:v0.8.2
